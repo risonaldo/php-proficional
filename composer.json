@@ -1,0 +1,19 @@
+{
+    "name": "rfilho/php-pro",
+    "description": "PHP profissional",
+    "autoload": {
+        "files": [
+            "app/router/router.php"
+        ],
+        "psr-4": {
+            "app\\":"app"
+        }
+    },
+    "authors": [
+        {
+            "name": "risonaldo",
+            "email": "risonaldomaciel@hotmail.com"
+        }
+    ],
+    "require": {}
+}
